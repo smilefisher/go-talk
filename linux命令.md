@@ -1,6 +1,6 @@
 #### 1 防火墙
 
-```
+```shell
 # 1 关闭防火墙
 systemctl stop firewalld
 
