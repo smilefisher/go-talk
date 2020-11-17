@@ -75,4 +75,4 @@
 4. **BLOB, TEXT**
 5. **日期** datetime(8字节), timestamp（4字节）
 6. **位数据** bit, set
-7. 数字比字符串快，ip 转 int (select INET_ATON('192.178.1.1')) , select INET_NTOA('3232891137')
+7. **数字比字符串快**，ip 转 int (select INET_ATON('192.178.1.1')) , select INET_NTOA('3232891137')
